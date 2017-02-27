@@ -1,0 +1,7 @@
+#Mon Feb 27 22:34:30 IST 2017
+base.0=/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_152107af1be4bd11e6451428b0149b5ce4aa46db
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5b6c3615e37297c2b507bc161b2a42974c4663c/classes.dex
+base.1=/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5b6c3615e37297c2b507bc161b2a42974c4663c
+file.0=/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_152107af1be4bd11e6451428b0149b5ce4aa46db/classes.dex

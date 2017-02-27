@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_menu.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/src/main/res/drawable-nodpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_back_btn_header.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/src/main/res/drawable-nodpi/ic_back_btn_header.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_user.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/src/main/res/drawable-nodpi/ic_user.png"
+    }
+]

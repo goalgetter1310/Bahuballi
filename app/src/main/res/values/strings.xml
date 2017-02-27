@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FirebasePlayer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--font name-->
+    <string name="tahoma_normal" >tahoma_normal.ttf</string>
+    <string name="tahoma_negreta" >tahoma_heavy.ttf</string>
+
+    <!--transition name-->
+    <string name="transition_logo">Transition name logo</string>
+    <string name="transition_profile">Transition name profile</string>
+    <string name="transition_name">Transition name name</string>
+    <string name="transition_email">Transition name email</string>
+    <string name="transition_image">Transition name image</string>
+    <string name="transition_linear_profile">Transition name linear profile</string>
+
+
+    <string name="home">Home</string>
+    <string name="cast_n_crew">Cast &amp; Crew</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+    <string name="more">More</string>
+    <string name="notification">Notification</string>
+    <string name="book">Book</string>
+    <string name="favourite">Favourite</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+
+    <!--menu item-->
+    <string-array name="menu_list">
+        <item>@string/home</item>
+        <item>@string/cast_n_crew</item>
+        <item>@string/video</item>
+        <item>@string/gallery</item>
+        <item>@string/notification</item>
+        <item>@string/more</item>
+    </string-array>
+
+</resources>

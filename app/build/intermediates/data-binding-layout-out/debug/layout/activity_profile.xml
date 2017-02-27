@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="match_parent" android:tag="layout/activity_profile_0" xmlns:frisson="http://schemas.android.com/apk/res-auto">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <com.example.frisson.FrissonView
+        android:id="@+id/activity_fv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_220sdp"
+        frisson:gradientType="radial"
+        frisson:tintColor="@color/colorPrimary"
+        frisson:gradient_endColor="@color/colorPrimary"
+        frisson:gradient_startColor="@color/colorPrimary"
+        frisson:tideCount="3"
+        frisson:tideHeight="@dimen/_50sdp"
+        />
+
+    <com.firebaseplayer.widget.CircleImageView
+        android:src="@drawable/ic_user"
+        android:layout_centerInParent="true"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp" />
+    </RelativeLayout>
+</RelativeLayout>
+         

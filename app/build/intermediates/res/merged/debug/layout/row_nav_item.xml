@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ll_click"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rl_background"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_38sdp"
+            android:layout_marginBottom="@dimen/_4sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginRight="@dimen/_4sdp"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:paddingLeft="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/ic_icon"
+                android:layout_width="@dimen/_19sdp"
+                android:layout_height="@dimen/_19sdp"
+                android:layout_centerVertical="true"
+                />
+
+            <com.firebaseplayer.widget.CustomTextView
+                android:id="@+id/tv_text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_toRightOf="@+id/ic_icon"
+                android:padding="@dimen/_2sdp"
+                android:textColor="@android:color/white"
+                android:text="Book A Trip"
+                android:textSize="@dimen/_14sdp"
+                app:font_type="@string/tahoma_normal" />
+
+        </RelativeLayout>
+
+        <View
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:background="@android:color/black"
+            android:layout_height="0.5dp"/>
+    </LinearLayout>
+
+</layout>

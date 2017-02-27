@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_library_books_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_library_books_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_share_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_share_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cast_n_crew.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cast_n_crew.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notifications_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_more_white_24dp.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_more_white_24dp.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_photo.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_photo.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_star_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_star_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_home_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_people.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_people.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_video.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_video.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_white.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_white.xml"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_phone.xml",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone.xml"
+    }
+]

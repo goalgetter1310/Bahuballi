@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_n_crew.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cast_n_crew.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_star_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_star_white.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_people.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_people.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_library_books_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_library_books_white.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_video.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_home_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_white.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_share_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_phone.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_notifications_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications_white.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_more_white_24dp.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_more_white_24dp.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_photo.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_photo.png"
+    },
+    {
+        "merged": "/home/sachin/Downloads/FirebaseRepository-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_favorite_white.png",
+        "source": "/home/sachin/Downloads/FirebaseRepository-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_white.png"
+    }
+]
